@@ -1,0 +1,17 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# MacOS
+.DS_Store
+
+# Virtual Environments
+env/
+venv/
+.venv/
+
+# Ignore zip files
+*.zip
